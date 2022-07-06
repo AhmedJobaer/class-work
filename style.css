@@ -1,0 +1,138 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+
+}
+
+h1 {
+    color: gray;
+    font-size: 60px;
+    margin: 0;
+}
+
+.heading-2 {
+    padding-top: 80px;
+    padding-bottom: 10px;
+    color: gray;
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orangered;
+}
+
+
+
+.first-sec {
+    display: flex;
+
+}
+
+
+.top-banner {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+}
+
+
+
+
+.mid-banner {
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+.first-pra {
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 20%;
+}
+
+.half {
+    width: 40%;
+    padding: 7%;
+}
+
+.half img {
+    width: 90%;
+}
+
+.half-sec {
+    width: 40%;
+    padding: 2%;
+}
+
+.half-sec img {
+    margin-left: 25%;
+    width: 60%;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 60px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+.heading-3 {
+    font-size: 40px;
+    text-align: center;
+    color: gray;
+}
+
+.third-pra {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.exprience-item {
+    width: 50%;
+    height: 700px;
+    padding-left: 30px;
+    border-radius: 35px;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.exprience-item img {
+    height: 400px;
+    width: 95%;
+    border-radius: 10px;
+    margin-top: 5%;
+}
+
+.food1 {
+    margin-left: 8%;
+    margin-right: 1%;
+    margin-bottom: 5%;
+}
+
+.food2 {
+    margin-right: 8%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.food-p {
+    padding-right: 1%;
+    font-size: 20px;
+}
